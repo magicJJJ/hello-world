@@ -1,2 +1,4 @@
 # hello-world
-tral repository
+trial repository
+
+1st trial to get familiar with the github
